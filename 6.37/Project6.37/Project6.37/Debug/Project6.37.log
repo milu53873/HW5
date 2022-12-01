@@ -1,0 +1,3 @@
+﻿  Main.c
+c:\users\user\desktop\ch5_hw\6.37\project6.37\project6.37\main.c(8): warning C4101: 'k': 未參考的區域變數
+  Project6.37.vcxproj -> C:\Users\User\Desktop\CH5_HW\6.37\Project6.37\Debug\Project6.37.exe
